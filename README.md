@@ -1,2 +1,3 @@
 # helloWorld
 This is homework :-)
+My name is Josh, I'm 41 years old and I have no idea what to do with my life. I started school to learn web design and thought taking pictures sounded fun. Its been a year and I'm still in the same place...
